@@ -1,12 +1,8 @@
-### Hi everyone, I'm Mustafa Çığ Gökpınar 👋. Here is my [website][website] for quick summary:  
-
-## I'm a Computer Engineering Student and a Junior Front-End Developer !!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+### Hi everyone, I'm Mustafa Çığ Gökpınar 👋.
+## I'm a Computer Engineering Student and a Junior Front-End Developer.
+- 💻 I’m currently learning Web/Mobile Application Development
+- 👯 I'm open to all your questions and feedbacks
+- ☕ I'm a Pretty Serious Third Wave Coffee Enthusiast
 
 ### My Social Media Accounts:
 
@@ -17,7 +13,7 @@
 
 <br />
 
-### The Languages and Tools I have Worked With (Most Familiar To Least):
+### Languages and Tools I have Worked With (Most Comfortable To Least):
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="ES6" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png" />](https://es6.io/)
 [<img align="left" alt="Vue" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true" />](https://vuejs.org/)
