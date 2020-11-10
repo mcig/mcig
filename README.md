@@ -1,7 +1,7 @@
 ### Hi everyone, I'm Mustafa Çığ Gökpınar 👋.
 ## I'm a Computer Engineering Student and a Junior Front-End Developer.
 - 💻 I’m currently learning Web/Mobile Application Development
-- 👯 I'm open to all your questions and feedbacks
+- 🤗 I'm open to all your questions and feedbacks
 - ☕ I'm a Pretty Serious Third Wave Coffee Enthusiast
 
 ### My Social Media Accounts:
