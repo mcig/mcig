@@ -21,7 +21,10 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img width="auto" src="https://github-readme-stats.vercel.app/api?username=mcig&show_icons=true&theme=gotham" alt="Mustafa Çığ Gökpınar" />
+![mcig's Github Stats](https://github-readme-stats.vercel.app/api?username=mcig&count_private=true&hide=contribs,issues&show_icons=true&theme=cobalt)
+
+[![mcig's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcig&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 <h2 align="left">My Favorite Technologies</h2>
