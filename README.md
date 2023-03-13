@@ -1,5 +1,5 @@
 ### Hi everyone, I'm Mustafa Çığ Gökpınar 👋.
-## I'm a Computer Engineer and a FullStack Developer.
+## I'm a Computer Engineer and a Full Stack Developer.
 - 💻 I’m currently learning Web/Mobile Application Development
 - 🤗 I'm open to all your questions and feedbacks
 - ☕ I'm a Pretty Serious Third Wave Coffee Enthusiast
