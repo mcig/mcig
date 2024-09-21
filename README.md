@@ -22,8 +22,6 @@
 
 📈 My GitHub Stats
 
-![mcig's Github Stats](https://github-readme-stats.vercel.app/api?username=mcig&count_private=true&hide=contribs,issues&show_icons=true&theme=cobalt)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=mcig&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![mcig's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcig&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
